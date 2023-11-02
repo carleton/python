@@ -1,0 +1,8 @@
+# Ensure this file isn't ignored
+!.gitignore
+# Ignore files with these extensions
+*.swp
+*.pyc
+# Ignore these specific directories
+build/
+gpg.egg-info/
